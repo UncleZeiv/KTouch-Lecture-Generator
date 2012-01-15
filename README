@@ -1,0 +1,12 @@
+Script to generate a programmer-friendly lecture for Ktouch
+(http://ktouch.sourceforge.net/).
+
+This only uses random characters and alternates levels with new characters and
+review levels.
+New characters are progressively introduced by finger and later on include
+punctuation, capital letters and (optional) accented letters.
+
+It tends to be pretty hard and unnerving - I take no responsibility for smashed 
+keyboards or any kind of repetitive strain injury.
+
+- UncleZeiv
